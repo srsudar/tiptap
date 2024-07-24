@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.5.7
+
+### Patch Changes
+
+- Updated dependencies [cc3497e]
+  - @tiptap/core@2.5.7
+  - @tiptap/pm@2.5.7
+  - @tiptap/suggestion@2.5.7
+
 ## 2.5.6
 
 ### Patch Changes
